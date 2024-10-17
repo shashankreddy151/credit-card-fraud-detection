@@ -20,3 +20,16 @@ To ensure consistency across environments and avoid package conflicts, it is rec
 2. Run the following command to clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/payment-driven-customer-experience-optimization.git
+   ```
+
+## Setting Up the Virtual Environment and Installing Requirements
+
+To ensure consistency across environments and avoid package conflicts, it is recommended to use a virtual environment for this project. Follow the steps below to set up the virtual environment and install the required packages.
+
+### Step 1: Create a Virtual Environment
+
+1. Open your terminal (or Command Prompt) and navigate to the project directory.
+2. Create a virtual environment by running:
+   ```bash
+   python -m venv venv
+   ```
