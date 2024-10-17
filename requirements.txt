@@ -1,0 +1,15 @@
+pandas==2.1.1
+numpy==1.24.3
+matplotlib==3.7.2
+scikit-learn==1.3.0
+seaborn==0.12.2
+sqlalchemy==2.0.20  # For SQL database handling
+psycopg2==2.9.6     # For PostgreSQL database interaction (if using PostgreSQL)
+pyodbc==4.0.35      # For connecting to SQL Server databases
+tableau-api-lib==0.1.22  # For Tableau API integration
+openpyxl==3.1.2     # For Excel file handling (data input/output)
+xlrd==2.0.1         # For reading Excel files
+plotly==5.17.0      # Interactive visualizations
+dash==2.11.1        # For building interactive web-based data dashboards
+requests==2.31.0    # For API requests if needed
+jupyterlab==4.0.5   # Jupyter environment for notebooks
