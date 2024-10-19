@@ -32,4 +32,18 @@ To ensure consistency across environments and avoid package conflicts, it is rec
 2. Create a virtual environment by running:
    ```bash
    python -m venv venv
-   ```
+
+## Project Structure
+```
+The project is structured as follows:
+payment-driven-customer-experience-optimization/
+├── data/                 # Store datasets here (if any)
+├── etl/                  # ETL scripts
+├── models/               # Data models, algorithms, or machine learning models
+├── notebooks/            # Jupyter notebooks (if you are using any)
+├── src/                  # Main source code (processing, analysis)
+├── venv/                 # Virtual environment (already set up)
+├── .gitignore            # Git ignore file (already set up)
+├── README.md             # Documentation (you've partially done)
+└── requirements.txt      # Dependencies (you’ve created this)
+```
