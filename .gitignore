@@ -22,6 +22,9 @@ data/*.csv         # Ignore CSV files in the data folder
 data/*.zip         # Ignore any zip files in the data folder
 *.tar.gz           # Ignore tarball files globally
 *.h5               # Ignore HDF5 files globally (common for large data storage)
+*.xlsx
+*.jsonl
 
+/data/
 # Ignore other large files
 *.json             # If you're storing large JSON files
