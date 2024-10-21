@@ -51,3 +51,6 @@ payment-driven-customer-experience-optimization/
 
 ## Link to the Dataset
 https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions
+
+##About Dataset
+The dataset "Fraudulent E-Commerce Transactions" on Kaggle includes records of e-commerce transactions, specifically identifying fraudulent ones. It contains features such as transaction details, user information, and labels for fraud detection, useful for building machine learning models to detect fraudulent activity in online transactions.
