@@ -51,4 +51,6 @@ payment-driven-customer-experience-optimization/
 ## Link to the Dataset
 https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions
 
-### More about Dataset [Dataset Information](./dataset_info.md)
+### More About the Dataset
+
+Refer to the [Dataset Information](/dataset_info.md) for details.
