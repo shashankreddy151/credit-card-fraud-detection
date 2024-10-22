@@ -51,6 +51,8 @@ payment-driven-customer-experience-optimization/
 ## Link to the Dataset
 https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions
 
+This synthetic dataset, "Fraudulent E-Commerce Transactions," is designed to simulate transaction data from an e-commerce platform with a focus on fraud detection. It contains a variety of features commonly found in transactional data, with additional attributes specifically engineered to support the development and testing of fraud detection algorithms.
+
 ### More About the Dataset
 
 Refer to the [Dataset Information](/dataset_info.md) for details.
