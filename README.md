@@ -7,9 +7,22 @@ Using Python, SQL, and various data analysis libraries, the project involves pre
 
 ### Directory and File Descriptions
 
-- **data/**: Contains the dataset used for analysis and modeling.
-- **notebooks/**: Jupyter notebooks that include the exploratory data analysis and visualizations.
-- **scripts/**: Python scripts containing functions and classes for training and evaluating models.
-- **docs/**: Documentation files, including the README file.
-- **requirements.txt**: A file that lists all the dependencies required to run the project.
-- **.gitignore**: A file that specifies intentionally untracked files to ignore in the Git repository.
+```bash
+credit-card-fraud-detection/
+│
+├── data/
+│   ├── creditcard.csv            # Raw dataset
+│
+├── notebooks/
+│   ├── analysis.ipynb           # Jupyter notebook with analysis
+│
+├── scripts/
+│   ├── model.py                  # Python scripts for model training and evaluation
+│
+├── docs/
+│   ├── README.md                 # Project overview and instructions
+│
+├── requirements.txt              # List of Python dependencies
+│
+└── .gitignore                    # Files/folders to ignore in version control
+```
