@@ -26,3 +26,12 @@ credit-card-fraud-detection/
 │
 └── .gitignore                    # Files/folders to ignore in version control
 ```
+## Requirements
+
+To run this project, you'll need to install the required Python packages. You can find the list of dependencies in the [requirements.txt](requirements.txt) file. 
+
+To install the required packages, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
